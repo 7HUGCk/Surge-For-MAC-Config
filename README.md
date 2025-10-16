@@ -1,2 +1,2 @@
 # Surge-For-MAC-Config
-suige
+surge for Mac自用配置文件
