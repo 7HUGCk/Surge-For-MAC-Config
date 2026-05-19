@@ -1,0 +1,7 @@
+# > Gmail
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,pop.gmail.com
+DOMAIN-KEYWORD,gmail
